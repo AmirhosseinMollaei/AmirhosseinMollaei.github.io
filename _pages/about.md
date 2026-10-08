@@ -68,12 +68,14 @@ Each paper's demo video is on the [Research]({{ base_path }}/portfolio/) page.
 <!-- To add a news item, copy the line format below and put it at the TOP of this list. -->
 <!-- - **[Mon YYYY]** What happened. -->
 
-- **[Oct 2026]** *Splat-CBF* and *TRACE* are under review at ICRA 2027.
+- **[Oct 2026]** Poster accepted at the Northeast Robotics Colloquium, Princeton University:
+  *Perception Control Barrier Function Approach to Next-Best View-Action Planning in 3D Gaussian Maps*.
+- **[Oct 2026]** Posted *TRACE* to arXiv. *Splat-CBF* and *TRACE* are both under review at ICRA 2027.
 - **[Sep 2026]** *AGILE-GS* and *LiTe-GS* are under review at WACV 2027. Both preprints are on arXiv.
 - **[Sep 2026]** Presented *SemSafe-3DGS* at the SeMaNa workshop, IROS 2026.
-- **[Jun 2026]** Posted *Multi-Agent Next-Best-View Optimization for Risk-Averse Planning* to arXiv.
 - **[Jul 2026]** Presented at ECC 2026 in Reykjavik.
 - **[Jun 2026]** Presented at ICRA 2026 in Vienna.
+- **[Jun 2026]** Posted *Multi-Agent Next-Best-View Optimization for Risk-Averse Planning* to arXiv.
 - **[May 2026]** Our CDC 2026 paper was accepted as an invited session paper.
 - **[Mar 2026]** Passed the PhD general examination at Lehigh.
 
